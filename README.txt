@@ -1,0 +1,1 @@
+This is an example of using Python to generating the Moscow metro database and working with him (some simple queries in SQL).
